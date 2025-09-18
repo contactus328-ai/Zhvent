@@ -1,11 +1,16 @@
-l
-  # 1 Zhevents College Event Management App
+# app
 
-  This is a code bundle for 1 Zhevents College Event Management App. The original project is available at https://www.figma.com/design/v8W9DBhM7BY9sPSaLsTLb8/1-Zhevents-College-Event-Management-App.
+A new Flutter project.
 
-  ## Running the code
+## Getting Started
 
-  Run `npm i` to install the dependencies.
+This project is a starting point for a Flutter application.
 
-  Run `npm run dev` to start the development server.
-  Test deploy to Verce
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
